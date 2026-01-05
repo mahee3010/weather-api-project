@@ -1,0 +1,4 @@
+,dt,main.temprature,main.temprature_feels_like,main.temprature_max,main.temprature_min,main.pressure,main.humidity,wind.speed,wind.degrees,weather_main,weather_description,clouds.cloudiness,sys.part_of_day,visibility_distance
+0,1767636000,273.79,269.63,273.79,273.01,1015,73,4.04,325,Clouds,scattered clouds,36,night,10000
+1,1767646800,273.04,269.76,273.04,271.54,1016,74,2.74,325,Clouds,scattered clouds,26,night,10000
+2,1767657600,271.28,268.25,271.28,270.02,1018,74,2.21,310,Clouds,few clouds,16,night,10000
